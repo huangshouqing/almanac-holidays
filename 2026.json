@@ -1,0 +1,61 @@
+{
+  "year": 2026,
+  "holidays": [
+    {
+      "name": "元旦",
+      "nameEn": "New Year",
+      "startDate": "2026-01-01",
+      "endDate": "2026-01-03",
+      "days": 3,
+      "workdays": []
+    },
+    {
+      "name": "春节",
+      "nameEn": "Spring Festival",
+      "startDate": "2026-02-17",
+      "endDate": "2026-02-23",
+      "days": 7,
+      "workdays": ["2026-02-14", "2026-02-28"]
+    },
+    {
+      "name": "清明节",
+      "nameEn": "Qingming Festival",
+      "startDate": "2026-04-04",
+      "endDate": "2026-04-06",
+      "days": 3,
+      "workdays": []
+    },
+    {
+      "name": "劳动节",
+      "nameEn": "Labor Day",
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-05",
+      "days": 5,
+      "workdays": ["2026-04-26", "2026-05-09"]
+    },
+    {
+      "name": "端午节",
+      "nameEn": "Dragon Boat Festival",
+      "startDate": "2026-05-31",
+      "endDate": "2026-06-01",
+      "days": 2,
+      "workdays": []
+    },
+    {
+      "name": "中秋节",
+      "nameEn": "Mid-Autumn Festival",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-27",
+      "days": 3,
+      "workdays": []
+    },
+    {
+      "name": "国庆节",
+      "nameEn": "National Day",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-07",
+      "days": 7,
+      "workdays": ["2026-09-27", "2026-10-10"]
+    }
+  ]
+}
